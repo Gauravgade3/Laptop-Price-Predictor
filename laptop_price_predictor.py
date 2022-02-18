@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from statsmodels.stats.outliers_influence import variance_inflation_factor
+
 
 # %matplotlib inline
 import warnings
